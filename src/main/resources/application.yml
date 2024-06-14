@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      username: alancss
+      password: alancss
+      host: localhost
+      port: 27017
+      database: alancoding
+      authentication-database: admin
